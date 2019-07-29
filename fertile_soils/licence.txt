@@ -1,0 +1,5 @@
+cold_climate_fertile_soil_icon.png and warm_climate_fertile_soil_icon.png  made by combining 
+"grass_and_water_0.png" from "Clint Bellanger" under  https://creativecommons.org/licenses/by/3.0/
+and "snowflake.png" from "mkwong98" under public domain
+
+warm_climate_fertile_soil_icon.png from "grass_and_water_0.png" by "Clint Bellanger" under  https://creativecommons.org/licenses/by/3.0/
