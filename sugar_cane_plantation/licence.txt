@@ -1,0 +1,4 @@
+-----------Textures------------
+sugar_cane_color.png by TheFunnySide under the mods main licence
+-----------Model---------------
+By TheFunnySide under the mods main licence
